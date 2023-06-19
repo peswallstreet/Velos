@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velos", "Velos\Velos.csproj", "{FBD08BE7-D7E9-46BE-8C23-B6A4BA51DBB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velos.Services.Profiles", "Velos.Services.Profiles\Velos.Services.Profiles.csproj", "{FBD08BE7-D7E9-46BE-8C23-B6A4BA51DBB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
